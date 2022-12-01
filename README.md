@@ -1,2 +1,1 @@
 Discord Nukebot with token
- 
